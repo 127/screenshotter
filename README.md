@@ -1,5 +1,7 @@
 # Basic python utility to optimize emulator screenshots for App Store and Google Play
 
+Main  article on this utility https://127.ru/articles/show/id/how-to-genereate-required-previews-for-app-store-and-google-play-fast-from-emulator-screenshots
+
 ## Installation 
 - Install python3
 - Install Pillow lib with ```pip install pillow```
