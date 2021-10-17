@@ -1,5 +1,7 @@
 # Basic python utility to optimize emulator screenshots for App Store and Google Play
 
+A useful utility to genereate required previews for App Store and Google Play fast from emulator screenshots.
+
 Main  article on this utility https://127.ru/articles/show/id/how-to-genereate-required-previews-for-app-store-and-google-play-fast-from-emulator-screenshots
 
 ## Installation 
